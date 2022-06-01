@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - :man_technologist: 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓.
 - :email: 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@qq](mailto:949883887@qq.com).
-- :house: [𝑩𝒍𝒐𝒈](https:///) • [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](https://yarbei.com) 
+- :house: [𝑩𝒍𝒐𝒈](https://github.com/yarbei/yarbei_blog/issues) • [𝑷𝒓𝒐𝒇𝒊𝒍𝒆](https://yarbei.com) 
 
 <!-- Github Stats -->
 
